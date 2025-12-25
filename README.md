@@ -10,3 +10,5 @@ End Result - An automated Dashboard providing quick and latest sales Insights in
 
 Source Criteria - Dashboard Uncovering sales order Insights with latest data available
 Sales Team able to makr better decisions nad prove 10% cost of savings of total spend.
+
+<img width="1920" height="1080" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/1114e43b-0f56-4211-86f7-27a7ec409bd2" />
